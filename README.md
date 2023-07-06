@@ -19,3 +19,10 @@ Estou cursando o primeiro semestre de Jogos Digitais na FIAP 1/4
   <!--   <a href = "colocar gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/gustavo-henrique-ono" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div align="center"><br>
+  <a href="https://github.com/GustavoHenriqueOno">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueOno&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueOno&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
