@@ -1,7 +1,7 @@
-### Olá, Eu me chamo Gustavo Henrique Ono, sejá bem vindo ao meu perfil
+### Olá, Eu me chamo Gustavo Henrique Ono, sejá bem vindo ao meu perfil 🖖
 ![](https://komarev.com/ghpvc/?username=GustavoHenriqueOno)
 
-Estou cursando o primeiro semestre de Jogos Digitais na FIAP 1/4
+Estou cursando o primeiro semestre de Jogos Digitais 👾 na FIAP 1/4
 
 
 <div style="display: inline_block">
