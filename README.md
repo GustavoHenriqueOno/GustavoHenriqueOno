@@ -1,13 +1,15 @@
-### Olá, Eu me chamo Gustavo Henrique Ono, sejá bem vindo ao meu perfil 🖖
+### Olá, Eu me chamo Gustavo Henrique Ono, sejá bem vindo ao meu perfil!!!
 ![](https://komarev.com/ghpvc/?username=GustavoHenriqueOno)
 
-Estou cursando o segundo semestre de Jogos Digitais 👾 na FIAP 2/4
+Estou cursando o segundo semestre de Jogos Digitais na FIAP 2/4
 
 
 <div style="display: inline_block">
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gustavo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Gustavo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                    
+  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 </div>
 
 ##
