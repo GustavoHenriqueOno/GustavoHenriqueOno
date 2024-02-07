@@ -3,7 +3,7 @@
 
 My name is Gustavo, feel free to explore all my repositories and projects.
 
-I'm currently studying Digital Games at FIAP 2/4.
+I'm currently studying Digital Games at FIAP 3/4.
 
 ### "Axios - Halo"
 
